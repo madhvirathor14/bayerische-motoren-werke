@@ -31,7 +31,7 @@ pinned: false
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.1-F54B23?style=for-the-badge&logo=groq&logoColor=white)](https://console.groq.com)
 [![TigerGraph](https://img.shields.io/badge/TigerGraph-4.2.2-FF6B00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)](https://tgcloud.io)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/madhvirathor14/bayerische-motoren-werke)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
