@@ -1,0 +1,11 @@
+from_car,to_car
+Ferrari_F8_Tributo,McLaren_720S
+Ferrari_F8_Tributo,Lamborghini_Huracan
+McLaren_720S,Lamborghini_Huracan
+BMW_M5,Mercedes_AMG_GT_Black
+BMW_M5,Porsche_Panamera_Turbo
+Lamborghini_Aventador,Ferrari_SF90_Stradale
+Lamborghini_Aventador,McLaren_Senna
+Rolls_Royce_Phantom,Bentley_Mulsanne
+Rolls_Royce_Ghost,Bentley_Continental_GT
+Porsche_Taycan_Turbo_S,Mercedes_EQS

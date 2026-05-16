@@ -1,0 +1,27 @@
+car_id,brand,horsepower,price_usd,top_speed,engine_type,acceleration_0_60
+BMW_M5,BMW,625,110000,190,Twin-Turbo V8,3.1
+BMW_M3,BMW,503,75000,180,Inline-6 Twin-Turbo,3.4
+BMW_i8,BMW,369,148000,155,Plug-in Hybrid,4.2
+BMW_X7,BMW,523,92000,155,Twin-Turbo V8,4.7
+Ferrari_F8_Tributo,Ferrari,710,280000,211,V8 Twin-Turbo,2.9
+Ferrari_SF90_Stradale,Ferrari,986,500000,211,V8 Hybrid,2.5
+Ferrari_Roma,Ferrari,612,222000,199,V8 Twin-Turbo,3.4
+Lamborghini_Aventador,Lamborghini,770,517000,217,V12 Naturally Aspirated,2.8
+Lamborghini_Huracan,Lamborghini,631,261000,202,V10 Naturally Aspirated,2.9
+Lamborghini_Urus,Lamborghini,641,218000,190,V8 Twin-Turbo,3.5
+Lamborghini_Revuelto,Lamborghini,1001,600000,220,V12 Hybrid,2.5
+Porsche_911_Turbo_S,Porsche,640,216000,205,Flat-6 Twin-Turbo,2.6
+Porsche_Taycan_Turbo_S,Porsche,750,187000,161,Dual Electric,2.6
+Porsche_Panamera_Turbo,Porsche,630,175000,196,V8 Twin-Turbo,3.1
+Mercedes_AMG_GT_Black,Mercedes-Benz,730,325000,202,V8 Twin-Turbo,3.1
+Mercedes_S_Class,Mercedes-Benz,496,110000,155,Inline-6 Hybrid,4.4
+Mercedes_G63_AMG,Mercedes-Benz,577,157000,137,V8 Twin-Turbo,4.5
+Mercedes_EQS,Mercedes-Benz,516,104000,130,Dual Electric,3.4
+Rolls_Royce_Phantom,Rolls-Royce,563,450000,155,V12 Twin-Turbo,5.1
+Rolls_Royce_Ghost,Rolls-Royce,563,332000,155,V12 Twin-Turbo,4.6
+Rolls_Royce_Cullinan,Rolls-Royce,563,335000,155,V12 Twin-Turbo,5.0
+Bentley_Continental_GT,Bentley,659,274000,208,W12 Twin-Turbo,3.5
+Bentley_Mulsanne,Bentley,505,300000,184,V8 Twin-Turbo,4.9
+McLaren_720S,McLaren,710,298000,212,V8 Twin-Turbo,2.8
+McLaren_Senna,McLaren,789,1000000,208,V8 Twin-Turbo,2.8
+McLaren_Artura,McLaren,671,237000,205,V6 Hybrid,3.0

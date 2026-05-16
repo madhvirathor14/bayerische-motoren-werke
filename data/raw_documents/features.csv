@@ -1,0 +1,15 @@
+feature_name,category,description
+Twin_Turbo_V8,Engine,Forced induction V8 with turbochargers
+V12_Naturally_Aspirated,Engine,High revving V12 without turbo
+V10_Naturally_Aspirated,Engine,High revving V10 used in Lamborghini
+W12_Twin_Turbo,Engine,Unique W12 in Bentley models
+Hybrid_Electric,Powertrain,Combustion plus electric motors
+Dual_Electric_Motors,Powertrain,Fully electric dual motor setup
+All_Wheel_Drive,Drivetrain,Power to all four wheels
+Carbon_Fiber_Monocoque,Material,Ultra-lightweight carbon chassis
+Active_Aerodynamics,Aerodynamics,Auto-adjusting aero components
+Launch_Control,Performance,Maximum acceleration from standstill
+Active_Suspension,Suspension,Computer controlled suspension
+Ceramic_Brakes,Brakes,Carbon ceramic fade-free brakes
+Starlight_Headliner,Luxury,Rolls-Royce fiber optic ceiling
+Bespoke_Interior,Luxury,Fully customizable hand-crafted interior
