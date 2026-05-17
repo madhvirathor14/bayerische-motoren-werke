@@ -174,14 +174,14 @@ with st.sidebar:
 
     # Image mapping
     car_images = {
-        "BMW M5": "data/images/bmw.jpg",
-        "Ferrari F8": "data/images/ferrari.jpg",
-        "Lamborghini": "data/images/lamborghini.jpg",
-        "Porsche 911": "data/images/porsche.jpg",
-        "Mercedes AMG": "data/images/mercedes.jpg",
-        "Rolls-Royce": "data/images/rolls_royce.jpg",
-        "McLaren 720S": "data/images/mclaren.jpg",
-        "Bentley Continental": "data/images/bentley.jpg",
+        "BMW M5": "./data/images/bmw.jpg",
+        "Ferrari F8": "./data/images/ferrari.jpg",
+        "Lamborghini": "./data/images/lamborghini.jpg",
+        "Porsche 911": "./data/images/porsche.jpg",
+        "Mercedes AMG": "./data/images/mercedes.jpg",
+        "Rolls-Royce": "./data/images/rolls_royce.jpg",
+        "McLaren 720S": "./data/images/mclaren.jpg",
+        "Bentley Continental": "./data/images/bentley.jpg",
     }
 
     # Display images in sidebar
