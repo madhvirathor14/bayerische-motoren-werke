@@ -1,3 +1,4 @@
+huggingface_hub==0.16.4
 streamlit==1.28.0
 streamlit-option-menu==0.3.2
 groq==0.4.2
@@ -15,3 +16,8 @@ pillow==10.0.0
 google-generativeai==0.3.0
 altair==5.0.0
 protobuf==4.24.0
+=======
+altair
+pandas
+streamlit
+>>>>>>> cb435a4d96d18a0177647cd29971636c0138fdc3
